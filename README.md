@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors with Machine Learning 🎮
+# Rock-Paper-Scissors with Machine Learning 
 
 A Java-based Rock-Paper-Scissors game that implements both a random strategy and a simple machine learning algorithm to predict user behavior.
 
